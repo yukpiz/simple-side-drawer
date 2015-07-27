@@ -1,3 +1,6 @@
+It a forked of the https://github.com/adamrocker/simple-side-drawer .  
+Thank you for it.  
+
 SimpleSideDrawer is an android library to add a drawer navigation into your android application.
 This library has high affinity with other libraries like ActionBarSherlock or etc.
 
